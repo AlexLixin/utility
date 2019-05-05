@@ -1,0 +1,3 @@
+- a web site or service to send me notification of companies i concerned.
+- a web site or service to store scattered files for download or view.
+- a web site or service to share product's user experience.
